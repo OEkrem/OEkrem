@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OEkrem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, Python, Artificial Intelligence, Embedded programming
+- 🌱 I’m currently learning Java
 - 📫 You can reach me from oekremyildirim@outlook.com
 
 <!---
