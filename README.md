@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OEkrem
-- 👀 I’m interested in Java, Python, Artificial Intelligence, Embedded programming
-- 🌱 I’m currently learning Java
+- 👀 I improved myself on Java, Java Core, Spring Framework, Spring Boot, Spring MVC, Spring AOP, RESTful API
+- 🌱 I will learning React for frond-end. Also I create lots of projects with use HTML, CSS, JS of course :)
 - 📫 You can reach me from oekremyildirim@outlook.com
 
 <!---
