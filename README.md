@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OEkrem
-- 👀 I improved myself on Java, Java Core, Spring Framework, Spring Boot, Spring MVC, Spring AOP, RESTful API
+- 👀 I improved myself on Spring Framework, Spring Boot, RESTful API, Security Jwt Token, Mikroservices
 - 🌱 I will learning React for frond-end. Also I create lots of projects with use HTML, CSS, JS of course :)
 - 📫 You can reach me from oekremyildirim@outlook.com
 
